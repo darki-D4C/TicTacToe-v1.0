@@ -1,2 +1,3 @@
 # TicTacToe-v1.0
-my first implementation TicTacToe game
+my first implementation of TicTacToe game
+
